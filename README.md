@@ -1,3 +1,3 @@
 # PAMI
-Pattern Analysis and Machine Intelligence
-Class exercises of PAMI (CSc 872)
+Class exercises of Pattern Analysis and Machine Intelligence (CSc 872)
+
