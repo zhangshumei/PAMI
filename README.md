@@ -14,11 +14,15 @@
 #### Image Segmentation by Mean Shift
 
 
+Use MeanShift for feature space analysis.
+
+
 #### Classification of Facial Gender
 
-Learn an LDA (Linear Discriminant Analysis) classifier that classify input image to either female or male (binary classification).
 
-PCA + LDA
+Learn an LDA (Linear Discriminant Analysis) classifier that classifies input image (both gray image and color image) to either female or male (binary classification).
+
+Use both PCA and LDA.
 
 
 
