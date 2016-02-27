@@ -16,9 +16,7 @@
 
 #### Classification of Facial Gender
 
-
 Learn an LDA (Linear Discriminant Analysis) classifier that classify input image to either female or male (binary classification).
-
 
 PCA + LDA
 
