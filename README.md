@@ -1,6 +1,6 @@
 # PAMI
-#### Class exercises of Pattern Analysis and Machine Intelligence course (CSc 872)
-#### All code is written in Matlab.
+###### Class exercises of Pattern Analysis and Machine Intelligence course (CSc 872)
+###### All code is written in Matlab.
 
 
 #### Face Recognition by Eigenface
