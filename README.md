@@ -3,7 +3,7 @@
 ###### All code is written in Matlab.
 
 
-#### Face Recognition by Eigenface
+#### I. Face Recognition by Eigenface
 
 
 1.  Image I/O + visualization
@@ -11,13 +11,13 @@
 3.  Recognition by nearest neighbor classification
 
 
-#### Image Segmentation by Mean Shift
+#### II. Image Segmentation by Mean Shift
 
 
 Use MeanShift for feature space analysis.
 
 
-#### Classification of Facial Gender
+#### III. Classification of Facial Gender
 
 
 Learn an LDA (Linear Discriminant Analysis) classifier that classifies input image (both gray image and color image) to either female or male (binary classification).
